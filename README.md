@@ -1,4 +1,4 @@
-![CreatePlan](../public/images/netflix.png);
+![CreatePlan](/public/images/netflix.png);
 
 # Netflix_clone
 넷플릭스 클론코딩
