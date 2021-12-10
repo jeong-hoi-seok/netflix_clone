@@ -1,4 +1,4 @@
-![CreatePlan](./public/images/netflix.png)
+![netflix](https://user-images.githubusercontent.com/73456923/145558227-9e4f44b9-15d5-4811-a67e-86fcc2e99fe4.png)
 
 # Netflix_clone
 넷플릭스 클론코딩
