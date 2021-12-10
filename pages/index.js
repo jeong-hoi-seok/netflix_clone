@@ -1,13 +1,10 @@
-import React from 'react';
-import Button from '@mui/material/Button'
+import Header from '../components/Pages/Home/Header'
 
 const Home = () => {
   return (
-    <div>
-      <main>
-        <Button variant='contained' color='primary'>Material UI</Button>
-      </main>
-    </div>
+    <>
+      <Header />
+    </>
   );
 };
 
