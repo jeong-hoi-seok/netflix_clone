@@ -1,9 +1,11 @@
-# netflix_clone
+![CreatePlan](../public/images/netflix.png);
+
+# Netflix_clone
 넷플릭스 클론코딩
 
 > port Number : 3000
 
-## 1.Next.js로 초기셋팅 진행
+## 초기 셋팅
 
 npx create-next-app 으로 next.js 생성완료
 
@@ -11,7 +13,7 @@ npx create-next-app 으로 next.js 생성완료
 
 components폴더 셋팅 완료
 
-## 2.넷플릭스 클론 코딩 진행
+## 2.Netflix 클론 코딩 진행
 
 > 메인페이지 진행 중
 >> 이메일 입력란 진행
