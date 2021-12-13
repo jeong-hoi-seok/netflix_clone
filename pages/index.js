@@ -1,11 +1,13 @@
-import Header from '../components/Pages/Home/Header'
-import Features from '../components/Pages/Home/Features'
+import Header from "../components/Header";
+import Main from "./Main";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
     <>
       <Header />
-      <Features />
+      <Main/>
+      <Footer />
     </>
   );
 };
