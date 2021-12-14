@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <>
       <Header />
-      <Main/>
+      <Main />
       <Footer />
     </>
   );

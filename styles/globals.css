@@ -103,5 +103,14 @@ hr {
 }
 
 input, select {
+  border: none;
+  padding: 0;
   vertical-align:middle;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
 }

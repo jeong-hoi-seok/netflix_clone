@@ -1,0 +1,5 @@
+//styled-components 사용가능
+{
+    "presets": ["next/babel"],
+    "plugins": ["babel-plugin-styled-components"]
+}
